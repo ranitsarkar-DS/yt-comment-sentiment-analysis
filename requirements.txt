@@ -11,3 +11,5 @@ dagshub
 python-dotenv
 matplotlib
 seaborn
+flask
+flask-cors
