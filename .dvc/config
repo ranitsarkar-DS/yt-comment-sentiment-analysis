@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\ranit\AppData\Local\Temp
+    url = s3://test-training-data-diagnostic-analysis
