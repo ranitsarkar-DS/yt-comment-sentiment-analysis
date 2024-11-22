@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+pyyaml
+nltk
+lightgbm
+awscli
+dvc[s3]
+mlflow
+dagshub
+python-dotenv
+matplotlib
+seaborn
+flask
+flask-cors
+wordcloud
