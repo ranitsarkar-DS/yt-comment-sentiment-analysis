@@ -148,3 +148,4 @@ jobs:
         run: |
           docker push 856747210950.dkr.ecr.us-east-1.amazonaws.com/yt-chrome-plugin:latest
           
+
