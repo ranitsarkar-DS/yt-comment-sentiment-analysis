@@ -120,6 +120,7 @@ jobs:
           MLFLOW_TRACKING_PASSWORD : ${{ secrets.MLFLOW_TRACKING_PASSWORD }}
         run: |
           nohup python flask_app/app.py &
+          sleep 60
             
       - name: Run Flask API tests
         run: |
